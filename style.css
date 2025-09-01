@@ -14,7 +14,7 @@ body{
 
 #page{
     width: 1120px;
-    margin: 88px auto;
+    margin: 88px auto 48px;
 }
 
 .headline{
@@ -104,4 +104,15 @@ li{
 
 #yongdusan+.division{
     margin: 40px 0;
+}
+
+footer{
+    margin-top: 85px;
+    text-align: center;
+    font-family: Alice, sans-serif;
+    font-size: 16px;
+}
+
+footer img{
+    vertical-align: middle;
 }
